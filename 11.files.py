@@ -22,6 +22,6 @@
 #     print(text)
 
 # ***чтение отдельных строк**
-with open("hello.txt", "r", encoding="utf8") as f:
-    row = f.readline()
-    print(row)
+# with open("hello.txt", "r", encoding="utf8") as f:
+#     row = f.readline()
+#     print(row)
